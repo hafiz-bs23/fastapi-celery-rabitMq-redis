@@ -1,14 +1,18 @@
 # <primary> FastAPI, Celery with RabbitMQ, Redis for Rocket Science </primary>
 ### A Learning project for FastAPI(REST), Cashing(Redis), DB(Postgres), ORM(SQLAlchemy), Celery(Task manager), RabbitMQ(Message Queue), Flower(Task Monitoring) Docker(Containerization), Kubernetes(Orchestration) and Rocket Science.
 It's a simple open-source learning project. It features a good story of ordering, building, fueling, launching rockets. Underneath the great story the following features will be covered.
-![Project Architecture](architecture.png)
+![Project Architecture](Solution.png)
 ### Features
-- [ ] Versioning
-- [ ] Routing
+- [*] Versioning
+  - [*] With Library
+  - [*] With custom
+- [*] Routing
 - [ ]  Request
-  - [ ]  Query Parameter 
-  - [ ]  Path Parameter 
-  - [ ]  Body Parameter 
+  - [*]  Path Operation
+  - [ ]  Path Config [tag]
+  - [*]  Query Parameter 
+  - [*]  Path Parameter 
+  - [*]  Body Parameter 
   - [ ]  Request Header 
   - [ ]  Validation 
 - [ ]  HTTP Methods 
